@@ -1,0 +1,3 @@
+[submodule "Chip8JS"]
+	path = Chip8JS
+	url = https://github.com/SrBigotones/Chip8JS.git
